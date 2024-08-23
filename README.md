@@ -1,1 +1,1 @@
-My first static website using html
+My first webpage using html
